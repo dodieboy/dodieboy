@@ -4,7 +4,7 @@
   <a href="#"><img alt="Profile View" src="https://komarev.com/ghpvc/?username=dodieboy&color=7cebf5" /></a>
  </p>
 <!-- Social icons section -->
-<h2 align="center"> My Social Media: </h2>
+<h1 align="center"> My Social Media: </h1>
 <p align="center">
   <a href="https://twitter.com/dodieboy94"><img alt="Twitter URL" src="https://img.shields.io/badge/twitter-58a6fe?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tan-jia-shun-30537a186/"><img src="https://img.shields.io/badge/linkedin-58a6fe?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -19,12 +19,18 @@
 <p align="center">
   <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dodieboy&theme=react-dark")](https://github.com/ashutosh00710/github-readme-activity-graph" />
 </p> 
-<h2 align="center">Known Languages and Tools</h2>
+<h1 align="center">Known Languages and Tools</h1>
+<h2 align="center">Programming</h2>
 <p align="center">
   <code><img alt="C++" title="C++" src="./assets/logo/c-plus.svg" height="42"></code>
   <code><img alt="C#" title="C#" src="./assets/logo/c-sharp.svg" height="42"></code>
   <code><img alt="Python" title="Python" src="./assets/logo/python.svg" height="42"></code>
   <code><img alt="Java" title="Java" src="./assets/logo/java.svg" height="42"></code>
+  <code><img alt="Net-core" title=".Net Core" src="./assets/logo/net-core.svg" height="42"></code>
+  <code><img alt="Bash-SH" title="Bash & SH" src="./assets/logo/bash.svg" height="42"></code>
+</p>
+<h2 align="center">Web Application</h2>
+<p align="center">
   <code><img alt="Javascript" title="Javascript" src="./assets/logo/javascript.svg" height="42"></code>
   <code><img alt="Typescript" title="Typescript" src="./assets/logo/typescriptlang.svg" height="42"></code>
   <code><img alt="NodeJS" title="NodeJS" src="./assets/logo/nodejs.svg" height="42"></code>
@@ -37,7 +43,6 @@
   <code><img alt="Angular" title="Angular" src="./assets/logo/angular.svg" height="42"></code>
   <code><img alt="Ionic-Framework" title="Ionic Framework" src="./assets/logo/ionicframework.svg" height="42"></code>
   <code><img alt="PHP" title="PHP" src="./assets/logo/php.svg" height="42"></code>
-  <code><img alt="Net-core" title=".Net Core" src="./assets/logo/net-core.svg" height="42"></code>
 </p>
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dodieboy&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&hide_border=true&cache_seconds=1800" />
