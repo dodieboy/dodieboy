@@ -1,4 +1,4 @@
-<!-- Readme design is by Davids https://github.com/DavidsDvm/DavidsDvm/edit/main/README.md -->
+<!-- Readme gif design is by Davids https://github.com/DavidsDvm/DavidsDvm/edit/main/README.md -->
 <p align="center"><a href="https://github.com/dodieboy"><img src="https://user-images.githubusercontent.com/9015764/134452252-c1fb2bda-19cc-45b3-b08e-602a15928237.gif" alt="animated" /></a></p>
 <p align="center">
   <a href="#"><img alt="Profile View" src="https://komarev.com/ghpvc/?username=dodieboy&color=7cebf5" /></a>
