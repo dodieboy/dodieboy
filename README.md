@@ -17,7 +17,7 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=dodieboy&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </p> 
 <p align="center">
-  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dodieboy&theme=react-dark")](https://github.com/ashutosh00710/github-readme-activity-graph" />
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dodieboy&theme=react-dark" />
 </p> 
 <h1 align="center">Known Languages and Tools</h1>
 <h2 align="center">Programming</h2>
