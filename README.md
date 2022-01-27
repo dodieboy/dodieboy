@@ -21,5 +21,24 @@
 </p> 
 <h2 align="center">Known Languages and Tools</h2>
 <p align="center">
+  <code><img alt="C++" title="C++" src="./assets/logo/c-plus.svg" height="42"></code>
+  <code><img alt="C#" title="C#" src="./assets/logo/c-sharp.svg" height="42"></code>
+  <code><img alt="Python" title="Python" src="./assets/logo/python.svg" height="42"></code>
+  <code><img alt="Java" title="Java" src="./assets/logo/java.svg" height="42"></code>
+  <code><img alt="Javascript" title="Javascript" src="./assets/logo/javascript.svg" height="42"></code>
+  <code><img alt="Typescript" title="Typescript" src="./assets/logo/typescriptlang.svg" height="42"></code>
+  <code><img alt="NodeJS" title="NodeJS" src="./assets/logo/nodejs.svg" height="42"></code>
+  <code><img alt="ReactJS" title="ReactJS" src="./assets/logo/reactjs.svg" height="42"></code>
+  <code><img alt="HTML5" title="HTML5" src="./assets/logo/html5.svg" height="42"></code>
+  <code><img alt="CSS3" title="CSS3" src="./assets/logo/css3.svg" height="42"></code>
+  <code><img alt="SASS" title="SASS" src="./assets/logo/sass.svg" height="42"></code>
+  <code><img alt="Bootstrap" title="Bootstrap" src="./assets/logo/getbootstrap.svg" height="42"></code>
+  <code><img alt="JQuery" title="JQuery" src="./assets/logo/jquery.svg" height="42"></code>
+  <code><img alt="Angular" title="Angular" src="./assets/logo/angular.svg" height="42"></code>
+  <code><img alt="Ionic-Framework" title="Ionic Framework" src="./assets/logo/ionicframework.svg" height="42"></code>
+  <code><img alt="PHP" title="PHP" src="./assets/logo/php.svg" height="42"></code>
+  <code><img alt="Net-core" title=".Net Core" src="./assets/logo/net-core.svg" height="42"></code>
+</p>
+<p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dodieboy&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&hide_border=true&cache_seconds=1800" />
 </p> 
