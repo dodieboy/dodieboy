@@ -27,6 +27,7 @@
   <code><img alt="Python" title="Python" src="./assets/logo/python.svg" height="42"></code>
   <code><img alt="Java" title="Java" src="./assets/logo/java.svg" height="42"></code>
   <code><img alt="Net-core" title=".Net Core" src="./assets/logo/net-core.svg" height="42"></code>
+  <code><img alt="ActionScript" title="ActionScript" src="./assets/logo/ActionScript.png" height="42"></code>
   <code><img alt="Bash-SH" title="Bash & SH" src="./assets/logo/bash.svg" height="42"></code>
   <code><img alt="PowerShell" title="PowerShell" src="./assets/logo/powershell.svg" height="42"></code>
 </p>
