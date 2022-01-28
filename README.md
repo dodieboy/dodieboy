@@ -19,7 +19,7 @@
 <p align="center">
   <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dodieboy&theme=react-dark" />
 </p> 
-<h1 align="center">Known Languages and Tools</h1>
+<h1 align="center">Known Languages, Tools and Frameworks</h1>
 <h2 align="center">Programming</h2>
 <p align="center">
   <code><img alt="C++" title="C++" src="./assets/logo/c-plus.svg" height="42"></code>
