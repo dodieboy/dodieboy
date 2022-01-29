@@ -38,7 +38,7 @@
   <code><img alt="Typescript" title="Typescript" src="./assets/logo/typescriptlang.svg" height="42"></code>
   <code><img alt="NodeJS" title="NodeJS" src="./assets/logo/nodejs.svg" height="42"></code>
   <code><img alt="ReactJS" title="ReactJS" src="./assets/logo/reactjs.svg" height="42"></code>
-  <code><img alt="NextJS" title="NextJS" src="./assets/logo/nextjs.svg" height="42"></code>
+  <code><img alt="NextJS" title="NextJS" src="./assets/logo/next-js.svg" height="42"></code>
   <code><img alt="HTML5" title="HTML5" src="./assets/logo/html5.svg" height="42"></code>
   <code><img alt="CSS3" title="CSS3" src="./assets/logo/css3.svg" height="42"></code>
   <code><img alt="SASS" title="SASS" src="./assets/logo/sass.svg" height="42"></code>
