@@ -30,6 +30,7 @@
   <code><img alt="ActionScript" title="ActionScript" src="./assets/logo/ActionScript.png" height="42"></code>
   <code><img alt="Bash-SH" title="Bash & SH" src="./assets/logo/bash.svg" height="42"></code>
   <code><img alt="PowerShell" title="PowerShell" src="./assets/logo/powershell.svg" height="42"></code>
+  <code><img alt="SQLite" title="SQLite" src="./assets/logo/sqlite.svg" height="42"></code>
 </p>
 <h2 align="center">Web Application</h2>
 <p align="center">
@@ -37,6 +38,7 @@
   <code><img alt="Typescript" title="Typescript" src="./assets/logo/typescriptlang.svg" height="42"></code>
   <code><img alt="NodeJS" title="NodeJS" src="./assets/logo/nodejs.svg" height="42"></code>
   <code><img alt="ReactJS" title="ReactJS" src="./assets/logo/reactjs.svg" height="42"></code>
+  <code><img alt="NextJS" title="NextJS" src="./assets/logo/nextjs.svg" height="42"></code>
   <code><img alt="HTML5" title="HTML5" src="./assets/logo/html5.svg" height="42"></code>
   <code><img alt="CSS3" title="CSS3" src="./assets/logo/css3.svg" height="42"></code>
   <code><img alt="SASS" title="SASS" src="./assets/logo/sass.svg" height="42"></code>
