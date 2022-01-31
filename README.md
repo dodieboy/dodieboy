@@ -1,4 +1,4 @@
-<!-- Readme gif design is by Davids https://github.com/DavidsDvm/DavidsDvm/edit/main/README.md -->
+<!-- Readme gif designed by Davids https://github.com/DavidsDvm/DavidsDvm/edit/main/README.md -->
 <p align="center"><a href="https://github.com/dodieboy"><img width="100%" src="https://user-images.githubusercontent.com/9015764/134452252-c1fb2bda-19cc-45b3-b08e-602a15928237.gif" alt="animated" /></a></p>
 <p align="center">
   <a href="#"><img alt="Profile View" src="https://komarev.com/ghpvc/?username=dodieboy&color=7cebf5" /></a>
@@ -17,6 +17,7 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=dodieboy&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </p> 
 <p align="center">
+  <!-- Readme contribution graph designed by Ashutosh00710 https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dodieboy&theme=react-dark" />
 </p> 
 <h1 align="center">Known Languages, Tools and Frameworks</h1>
