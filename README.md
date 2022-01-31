@@ -1,10 +1,3 @@
-<style>
-code {
-  background-color: #f1f1f1;
-}
-</style>
-
-
 <!-- Readme gif design is by Davids https://github.com/DavidsDvm/DavidsDvm/edit/main/README.md -->
 <p align="center"><a href="https://github.com/dodieboy"><img width="100%" src="https://user-images.githubusercontent.com/9015764/134452252-c1fb2bda-19cc-45b3-b08e-602a15928237.gif" alt="animated" /></a></p>
 <p align="center">
