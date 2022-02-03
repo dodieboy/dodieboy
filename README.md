@@ -21,6 +21,9 @@
   <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dodieboy&theme=react-dark" />
 </p> 
 <h1 align="center">Known Languages, Tools and Frameworks</h1>
+<p align="center">
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dodieboy&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&hide_border=true&cache_seconds=1800" />
+</p> 
 <h2 align="center">Programming</h2>
 <p align="center">
   <code><img alt="C++" title="C++" src="./assets/logo/c-plus.svg" height="42"></code>
@@ -49,6 +52,4 @@
   <code><img alt="Ionic-Framework" title="Ionic Framework" src="./assets/logo/ionicframework.svg" height="42"></code>
   <code><img alt="PHP" title="PHP" src="./assets/logo/php.svg" height="42"></code>
 </p>
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dodieboy&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&hide_border=true&cache_seconds=1800" />
-</p> 
+
