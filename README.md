@@ -20,7 +20,7 @@
   <!-- Readme contribution graph designed by Ashutosh00710 https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dodieboy&theme=react-dark" />
 </p> 
-<h1 align="center">Known Languages, Tools and Frameworks</h1>
+<h1 align="center">Known Coding Languages, Tools and Frameworks</h1>
 <p align="center">
   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dodieboy&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&hide_border=true&cache_seconds=1800" />
 </p> 
