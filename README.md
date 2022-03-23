@@ -36,7 +36,7 @@
   <code><img alt="PowerShell" title="PowerShell" src="./assets/logo/powershell.svg" height="42"></code>
   <code><img alt="SQLite" title="SQLite" src="./assets/logo/sqlite.svg" height="42"></code>
 </p>
-<h2 align="center">Web Application</h2>
+<h2 align="center">Web Application Frameworks</h2>
 <p align="center">
   <code><img alt="Javascript" title="Javascript" src="./assets/logo/javascript.svg" height="42"></code>
   <code><img alt="Typescript" title="Typescript" src="./assets/logo/typescriptlang.svg" height="42"></code>
