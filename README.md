@@ -41,6 +41,7 @@
 <p align="center">
   <code><img alt="Javascript" title="Javascript" src="./assets/logo/javascript.svg" height="42"></code>
   <code><img alt="Typescript" title="Typescript" src="./assets/logo/typescriptlang.svg" height="42"></code>
+  <code><img alt="JQuery" title="JQuery" src="./assets/logo/jquery.svg" height="42"></code>
   <code><img alt="NodeJS" title="NodeJS" src="./assets/logo/nodejs.svg" height="42"></code>
   <code><img alt="ReactJS" title="ReactJS" src="./assets/logo/reactjs.svg" height="42"></code>
   <code><img alt="NextJS" title="NextJS" src="./assets/logo/next-js.svg" height="42"></code>
@@ -48,7 +49,6 @@
   <code><img alt="CSS3" title="CSS3" src="./assets/logo/css3.svg" height="42"></code>
   <code><img alt="SASS" title="SASS" src="./assets/logo/sass.svg" height="42"></code>
   <code><img alt="Bootstrap" title="Bootstrap" src="./assets/logo/getbootstrap.svg" height="42"></code>
-  <code><img alt="JQuery" title="JQuery" src="./assets/logo/jquery.svg" height="42"></code>
   <code><img alt="Angular" title="Angular" src="./assets/logo/angular.svg" height="42"></code>
   <code><img alt="Ionic-Framework" title="Ionic Framework" src="./assets/logo/ionicframework.svg" height="42"></code>
   <code><img alt="PHP" title="PHP" src="./assets/logo/php.svg" height="42"></code>
