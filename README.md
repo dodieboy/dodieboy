@@ -47,12 +47,12 @@
   <code><img alt="ReactJS" title="ReactJS" src="./assets/logo/reactjs.svg" height="42"></code>
   <code><img alt="NextJS" title="NextJS" src="./assets/logo/next-js.svg" height="42"></code>
   <code><img alt="Electron" title="Electron" src="./assets/logo/electron.svg" height="42"></code>
+  <code><img alt="Ionic-Framework" title="Ionic Framework" src="./assets/logo/ionicframework.svg" height="42"></code>
   <code><img alt="HTML5" title="HTML5" src="./assets/logo/html5.svg" height="42"></code>
   <code><img alt="CSS3" title="CSS3" src="./assets/logo/css3.svg" height="42"></code>
   <code><img alt="SASS" title="SASS" src="./assets/logo/sass.svg" height="42"></code>
   <code><img alt="Bootstrap" title="Bootstrap" src="./assets/logo/getbootstrap.svg" height="42"></code>
   <code><img alt="Angular" title="Angular" src="./assets/logo/angular.svg" height="42"></code>
-  <code><img alt="Ionic-Framework" title="Ionic Framework" src="./assets/logo/ionicframework.svg" height="42"></code>
   <code><img alt="PHP" title="PHP" src="./assets/logo/php.svg" height="42"></code>
 </p>
 
