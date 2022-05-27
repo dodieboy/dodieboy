@@ -19,7 +19,7 @@
 </p> 
 <p align="center">
   <!-- Readme contribution graph designed by Ashutosh00710 https://github.com/Ashutosh00710/github-readme-activity-graph -->
-  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dodieboy&theme=react-dark" />
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dodieboy&theme=react-dark&hide_border=true" />
 </p> 
 <h1 align="center">Known Coding Languages, Tools and Frameworks</h1>
 <p align="center">
