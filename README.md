@@ -38,7 +38,7 @@
   <code><img alt="SQLite" title="SQLite" src="./assets/logo/sqlite.svg" height="42"></code>
   <code><img alt="MS-SQ" title="Microsoft SQL" src="./assets/logo/MS_SQL.svg" height="42"></code>
 </p>
-<h2 align="center">Web Application Frameworks & Library</h2>
+<h2 align="center">Web application development</h2>
 <p align="center">
   <code><img alt="Javascript" title="Javascript" src="./assets/logo/javascript.svg" height="42"></code>
   <code><img alt="Typescript" title="Typescript" src="./assets/logo/typescriptlang.svg" height="42"></code>
