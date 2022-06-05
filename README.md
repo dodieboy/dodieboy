@@ -23,7 +23,7 @@
 </p> 
 <h1 align="center">Known Coding Languages, Tools and Frameworks</h1>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dodieboy&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&hide_border=true&cache_seconds=1800&langs_count=8" />
+  <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dodieboy&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&hide_border=true&cache_seconds=1800&langs_count=8" />
 </p> 
 <h2 align="center">Programming</h2>
 <p align="center">
