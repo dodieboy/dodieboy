@@ -5,7 +5,7 @@
  </p>
  Hello 👋, I'm currenly a student that studying information technology, cyber security and digital forensics. I enjoy coding and contributing on open-source project on my free time.
 <!-- Social icons section -->
-<h1 align="center"> My Social Media: </h1>
+<h1 align="center"> Connect with me: </h1>
 <p align="center">
   <a href="https://twitter.com/dodieboy94"><img alt="Twitter URL" src="https://img.shields.io/badge/twitter-4c8ed9?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tan-jia-shun-30537a186/"><img src="https://img.shields.io/badge/linkedin-4c8ed9?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
