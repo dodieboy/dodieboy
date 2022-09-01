@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#"><img alt="Profile View" src="https://komarev.com/ghpvc/?username=dodieboy&color=4c8ed9&style=flat-square" /></a>
  </p>
- Hello 👋, I'm currenly a student that studying information technology, cyber security and digital forensics. I enjoy coding and contributing on open-source project on my free time.
+ Hello 👋, I'm a student currently studying cyber security and digital forensics and also have the knowledge of information technology. I enjoy coding, designing new programme and website, and contributing on fun open-source project on my free time.
 <!-- Social icons section -->
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
