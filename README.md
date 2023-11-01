@@ -27,6 +27,7 @@
 </p> 
 <h2 align="center">Application development</h2>
 <p align="center">
+  <code><img alt="C" title="C" src="./assets/logo/C.svg" height="40"></code>
   <code><img alt="C++" title="C++" src="./assets/logo/c-plus.svg" height="40"></code>
   <code><img alt="C#" title="C#" src="./assets/logo/c-sharp.svg" height="40"></code>
   <code><img alt="Python" title="Python" src="./assets/logo/python.svg" height="40"></code>
@@ -35,10 +36,16 @@
   <code><img alt="ActionScript" title="ActionScript" src="./assets/logo/ActionScript.png" height="40"></code>
   <code><img alt="Bash-SH" title="Bash & SH" src="./assets/logo/bash.svg" height="40"></code>
   <code><img alt="PowerShell" title="PowerShell" src="./assets/logo/powershell.svg" height="36"></code>
-  <code><img alt="SQLite" title="SQLite" src="./assets/logo/sqlite.svg" height="40"></code>
-  <code><img alt="MS-SQ" title="Microsoft SQL" src="./assets/logo/MS_SQL.svg" height="40"></code>
 </p>
 <h2 align="center">Web application development</h2>
+<p align="center">
+  <code><img alt="HTML5" title="HTML5" src="./assets/logo/html5.svg" height="40"></code>
+  <code><img alt="CSS3" title="CSS3" src="./assets/logo/css3.svg" height="40"></code>
+  <code><img alt="SASS" title="SASS" src="./assets/logo/sass.svg" height="40"></code>
+  <code><img alt="Bootstrap" title="Bootstrap" src="./assets/logo/getbootstrap.svg" height="40"></code>
+  <code><img alt="Tailwind" title="Tailwind CSS" src="./assets/logo/Tailwind.svg" height="40"></code>
+  <code><img alt="Angular" title="Angular" src="./assets/logo/angular.svg" height="40"></code>
+</p>
 <p align="center">
   <code><img alt="Javascript" title="Javascript" src="./assets/logo/javascript.svg" height="40"></code>
   <code><img alt="Typescript" title="Typescript" src="./assets/logo/typescriptlang.svg" height="40"></code>
@@ -48,12 +55,12 @@
   <code><img alt="NextJS" title="NextJS" src="./assets/logo/next-js.svg" height="40"></code>
   <code><img alt="Electron" title="Electron" src="./assets/logo/electron.svg" height="40"></code>
   <code><img alt="Ionic-Framework" title="Ionic Framework" src="./assets/logo/ionicframework.svg" height="40"></code>
-  <code><img alt="HTML5" title="HTML5" src="./assets/logo/html5.svg" height="40"></code>
-  <code><img alt="CSS3" title="CSS3" src="./assets/logo/css3.svg" height="40"></code>
-  <code><img alt="SASS" title="SASS" src="./assets/logo/sass.svg" height="40"></code>
-  <code><img alt="Bootstrap" title="Bootstrap" src="./assets/logo/getbootstrap.svg" height="40"></code>
-  <code><img alt="Tailwind" title="Tailwind CSS" src="./assets/logo/Tailwind.svg" height="40"></code>
-  <code><img alt="Angular" title="Angular" src="./assets/logo/angular.svg" height="40"></code>
   <code><img alt="PHP" title="PHP" src="./assets/logo/php.svg" height="40"></code>
+</p>
+<h2 align="center">Database</h2>
+<p align="center">
+  <code><img alt="SQLite" title="SQLite" src="./assets/logo/sqlite.svg" height="40"></code>
+  <code><img alt="MYSQL" title="MYSQL" src="./assets/logo/mysql.svg" height="40"></code>
+  <code><img alt="MS-SQL" title="Microsoft SQL" src="./assets/logo/MS_SQL.svg" height="40"></code>
 </p>
 
