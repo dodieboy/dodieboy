@@ -52,7 +52,7 @@
   <code><img alt="CSS3" title="CSS3" src="./assets/logo/css3.svg" height="40"></code>
   <code><img alt="SASS" title="SASS" src="./assets/logo/sass.svg" height="40"></code>
   <code><img alt="Bootstrap" title="Bootstrap" src="./assets/logo/getbootstrap.svg" height="40"></code>
-  <code><img alt="Tailwind" title="Tailwind CSS" src="./assets/logo/Tailwind_CSS.svg" height="40"></code>
+  <code><img alt="Tailwind" title="Tailwind CSS" src="./assets/logo/Tailwind.svg" height="40"></code>
   <code><img alt="Angular" title="Angular" src="./assets/logo/angular.svg" height="40"></code>
   <code><img alt="PHP" title="PHP" src="./assets/logo/php.svg" height="40"></code>
 </p>
