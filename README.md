@@ -58,7 +58,7 @@
   <code><img alt="Ionic-Framework" title="Ionic Framework" src="./assets/logo/ionicframework.svg" height="40"></code>
   <code><img alt="PHP" title="PHP" src="./assets/logo/php.svg" height="40"></code>
 </p>
-<h2 align="center">Database</h2>
+<h2 align="center">Databases</h2>
 <p align="center">
   <code><img alt="SQLite" title="SQLite" src="./assets/logo/sqlite.svg" height="40"></code>
   <code><img alt="MYSQL" title="MYSQL" src="./assets/logo/mysql.svg" height="40"></code>
