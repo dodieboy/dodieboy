@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://twitter.com/dodieboy94"><img alt="Twitter URL" src="https://img.shields.io/badge/twitter-4c8ed9?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tan-jia-shun-30537a186/"><img src="https://img.shields.io/badge/linkedin-4c8ed9?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shun.shun094@gmail.com"><img src="https://img.shields.io/badge/SEND%20MAIL-4c8ed9?&style=for-the-badge&logo=MAIL.RU&logoColor=white" /></a>
+  <a href="mailto:dodieboy94@gmail.com"><img src="https://img.shields.io/badge/SEND%20MAIL-4c8ed9?&style=for-the-badge&logo=MAIL.RU&logoColor=white" /></a>
 </p>
 <p align="center">
 <!-- Profile Info section -->
