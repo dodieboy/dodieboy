@@ -32,7 +32,7 @@
   <code><img alt="C#" title="C#" src="./assets/logo/c-sharp.svg" height="40"></code>
   <code><img alt="Python" title="Python" src="./assets/logo/python.svg" height="40"></code>
   <code><img alt="Java" title="Java" src="./assets/logo/java.svg" height="40"></code>
-  <code><img alt="Kotlin" title="Java" src="./assets/logo/Kotlin.png" height="40"></code>
+  <code><img alt="Kotlin" title="Kotlin" src="./assets/logo/Kotlin.png" height="40"></code>
   <code><img alt="Swift" title="Swift" src="./assets/logo/swift.svg" height="40"></code>
   <code><img alt="Dot-Net-core" title=".Net Core" src="./assets/logo/net-core.svg" height="40"></code>
   <code><img alt="ActionScript" title="ActionScript" src="./assets/logo/ActionScript.png" height="40"></code>
