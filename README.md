@@ -64,5 +64,6 @@
   <code><img alt="SQLite" title="SQLite" src="./assets/logo/sqlite.svg" height="40"></code>
   <code><img alt="MYSQL" title="MYSQL" src="./assets/logo/mysql.svg" height="40"></code>
   <code><img alt="MS-SQL" title="Microsoft SQL" src="./assets/logo/MS_SQL.svg" height="40"></code>
+  <code><img alt="postgresql" title="Postgresql" src="./assets/logo/postgresql.svg" height="40"></code>
 </p>
 
