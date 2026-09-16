@@ -21,6 +21,7 @@
 <p align="center">
   <!-- Readme contribution graph designed by Ashutosh00710 https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dodieboy&theme=react-dark&hide_border=true" /> -->
+  <img width="100%" src="https://raw.githubusercontent.com/dodieboy/dodieboy/output/activity-graph.svg" />
 </p> 
 <h1 align="center">Known Coding Languages, Tools and Frameworks</h1>
 <p align="center">
